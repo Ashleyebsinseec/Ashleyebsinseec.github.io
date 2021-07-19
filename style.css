@@ -9,7 +9,7 @@ body {
 	width: 100%; 
 	height: 100vh; /* viewheight = 100% de la hauteur de l'ecran*/
 	background-color: #555555;
-	background-image: url("images/header.jpg");
+	background-image: url("header.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center bottom;
@@ -183,7 +183,7 @@ clear:both;
 	height: 250px;
 	background-color:#555555;
 	float:left;
-	background-image: url("images/Landscape 1.png");
+	background-image: url("Landscape 1.png");
     background-size: 100%;
     background-position: center center;
 	margin-top:50px;
@@ -194,7 +194,7 @@ clear:both;
 	
 .photo+.photo {
 	float:right;
-	background-image:url("images/Landscape 2.png");
+	background-image:url("Landscape 2.png");
 	margin-top:50px;
 }
 .photo:hover {
@@ -429,6 +429,7 @@ iframe {
 		margin-right:0;
 	}
 }
+	
 	
 	
 	
